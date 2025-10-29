@@ -1,3 +1,5 @@
+"""Admin configuration for API models."""
+
 from django.contrib import admin
 
 from .models import Task
